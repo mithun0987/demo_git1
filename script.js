@@ -18,7 +18,21 @@ function addTask()
 
 function displayTasks() {
     const taskList = document.getElementById("taskList");
-
+    console.log("junior changes");
+    console.log("junior changes1");
+    console.log("senior workin...");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    console.log("senior workin...1");
+    
     taskList.innerHTML = "";
 
     tasks.forEach(function(task, index) {
