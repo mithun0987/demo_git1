@@ -4,6 +4,8 @@ let tasks = [];
 function addTask() 
 {
     const input = document.getElementById("taskInput");
+    // team lead working....
+    
     const task = input.value.trim();
 
     if (task === "") {alert("Please enter a task");return;}
